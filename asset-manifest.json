@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43550792.css",
+    "main.js": "/static/js/main.3624d1b9.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/foto-tutu.png": "/static/media/foto-tutu.a8fa14805e97011ccff4.png",
+    "static/media/contact-photo.png": "/static/media/contact-photo.d1917d4e4dad93da7013.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/brazil-flag.svg": "/static/media/brazil-flag.2f483b978b6584477edf73b55fd36763.svg",
+    "static/media/usa-flag.svg": "/static/media/usa-flag.33c8035805d0139924dd472c4d5b3adf.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.04be58c17b3d5e9744424d414240dd85.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.43550792.css.map": "/static/css/main.43550792.css.map",
+    "main.3624d1b9.js.map": "/static/js/main.3624d1b9.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43550792.css",
+    "static/js/main.3624d1b9.js"
+  ]
+}
