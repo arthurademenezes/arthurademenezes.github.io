@@ -405,7 +405,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 5%;
   display: flex;
   -webkit-display: flex;
-  justify-content: center;
+  justify-content: space-around;
   }
 .skills h3, p{
     color: #fff;
@@ -414,7 +414,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .card-wrapper {
   border-left: 4px solid #fff;
   background:#0e5588;
-  margin-left: 100px;
   border-radius: 6px;
   max-height: 100px;
   overflow: hidden;

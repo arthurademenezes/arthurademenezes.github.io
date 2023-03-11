@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(100 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Advogado", "Desenvolvedor", "Gostoso" ];
+  const toRotate = [ "Advogado", "Desenvolvedor" ];
   const period = 1000;
 
   useEffect(() => {
@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Bem vindo!</span>
                 <h1>{`Arthur A. de Menezes\t`} <span className="txt-rotate" dataPeriod="1000" data-rotate=''><span className="wrap">{text}</span></span></h1>
                   <p>Minha proposta é unir o direito à tecnologia para fornecer soluções inteligentes para questões jurídicas.</p>
-                  <a href="https://drive.google.com/file/d/1q6Lx3ii_zHo1HEAvsk9W2YFnwrJ7QQgN/view?usp=sharing" target="_blank" rel="noopener noreferrer" download="">
+                  <a href="https://drive.google.com/file/d/1NzxDRK2tECSaBpjJtsLS6FoobnkcfrR5/view?usp=share_link" target="_blank" rel="noopener noreferrer" download="">
                   <button>Acessar Currículo <ArrowRightCircle size={25} /></button> 
                   </a>
               </div>}
